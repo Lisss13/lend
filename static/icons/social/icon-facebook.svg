@@ -1,0 +1,22 @@
+<svg
+  id="Layer_1"
+  data-name="Layer 1"
+  xmlns="http://www.w3.org/2000/svg"
+  width="35"
+  height="35"
+  viewBox="0 0 35 35"
+>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>icon__socialFB</title>
+  <path
+    class="cls-1"
+    d="M35,17.61A17.5,17.5,0,1,0,14.77,35V22.7H10.32V17.61h4.45V13.73c0-4.41,2.61-6.85,6.61-6.85a27,27,0,0,1,3.91.34v4.33h-2.2a2.54,2.54,0,0,0-2.86,2.75v3.31h4.86l-.78,5.09H20.23V35A17.57,17.57,0,0,0,35,17.61"
+  />
+</svg>

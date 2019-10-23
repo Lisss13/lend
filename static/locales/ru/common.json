@@ -1,0 +1,50 @@
+{
+  "header": {
+    "phone": "+7 911-911-9911",
+    "telegram": "tlp-project@domain.com"
+  },
+  "nav": {
+    "phone": "+7 911-911-9911",
+    "telegram": "tlp-project@domain.com",
+    "home": "ГЛАВНАЯ",
+    "about": "О НАС",
+    "service": "УСЛУГИ",
+    "product": "ПРОДУКЦИЯ",
+    "blog": "БЛОГ",
+    "contact": "КОНТАКТЫ"
+  },
+  "aboutUs": {
+    "title": "TLP Company Lorem ipsum",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "button": "ЧИТАТЬ"
+  },
+  "service": {
+    "appointment": {
+      "title": "Деловые встречи",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "emergency": {
+      "title": "Чрезвычайные случаи",
+      "phone": "00-000-0000-00",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    "opening": {
+      "title": "Часы открытия",
+      "mon": "Пн - Пт 8:00 - 20:30",
+      "sat": "Сб - 8:30 - 18:00",
+      "sun": "Вс 9:00 - 14:30"
+    }
+  },
+  "aboutProduct": {
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "firstDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "secondDescription": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "button": "ЧИТАТЬ"
+  },
+  "footer": {
+    "first": "Pertes et irritation porterro",
+    "second": "Ullamco laboris nisi",
+    "third": "Dolore magna aliqua",
+    "fourth": "Commodo consequat"
+  }
+}

@@ -1,0 +1,6 @@
+export { Header } from "./header"
+export { Footer } from "./footer"
+export { Navigation } from "./navigation"
+export { AboutUs } from "./about-us"
+export { Service } from "./service"
+export { AboutProduct } from "./about-product"
